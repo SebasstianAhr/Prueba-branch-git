@@ -4,3 +4,26 @@
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+footer{
+    background-color: #000000;
+    color: #f0f8ff;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.4rem;
+    flex-direction: column;
+  
+}
+
+.contetn-footer{
+    display: flex;
+    gap: 3rem;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.tittle-footer{
+    margin-bottom: 1rem;
+}
